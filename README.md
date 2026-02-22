@@ -1,4 +1,4 @@
-# Master Thesis – Booster T1 Localisation
+#Booster T1 Simulation and Control
 
 Author: Luís Leitão  
 Platform: Booster T1 (ROS2-based humanoid)
